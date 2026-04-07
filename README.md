@@ -22,7 +22,8 @@ Projeto de sistema embarcado usando ESP32 para leitura de temperatura e envio vi
 ## 📁 Estrutura
 - src/ → código fonte
 - docs/ → documentação do circuito
-
+![diagrama do circuito]
+(src/circuit.png)
 ## 🧠 Aprendizados
 - Programação embarcada
 - Organização de projeto
